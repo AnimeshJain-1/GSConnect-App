@@ -1,1 +1,1 @@
-Mentored by Upendra Sir
+GSConnect is a social media application
